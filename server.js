@@ -4,7 +4,7 @@ const http = require('http');
 const fs = require('fs');
 
 // port number for HTTP server
-const port = 3000;
+const port = 2500;
 
 // sendFile function - sends files in the HTTP response
 // INPUT:
